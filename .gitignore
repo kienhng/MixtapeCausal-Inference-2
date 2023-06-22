@@ -1,10 +1,9 @@
 **/.DS_Store
-
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-
+.Rproj
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -20,7 +19,6 @@
 *.nav
 *.snm
 .*.lb
-
 ## Intermediate documents:
 *.dvi
 *.xdv
@@ -29,7 +27,6 @@
 # *.ps
 # *.eps
 # *.pdf
-
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
 *.bcf
@@ -37,7 +34,6 @@
 *-blx.aux
 *-blx.bib
 *.run.xml
-
 ## Build tool auxiliary files:
 *.fdb_latexmk
 *.synctex
@@ -45,4 +41,4 @@
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
-
+MixtapeCausal-Inference-2.Rproj
