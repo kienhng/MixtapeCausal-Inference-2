@@ -41,4 +41,6 @@
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
+## Personal Code Practices
+practice-lab
 MixtapeCausal-Inference-2.Rproj
